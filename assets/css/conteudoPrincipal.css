@@ -1,0 +1,56 @@
+#conteudo-principal{
+  background-image: url('../img/banner-gif.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 450px;
+}
+
+.conteudo .titulo{ 
+  margin-top: 70px;
+}
+
+.conteudo .titulo h1{
+  font-family: azoBlack;
+  font-size: 50px;
+}
+
+.conteudo .titulo h3{
+  font-family: azoRegular;
+}
+
+.conteudo .titulo .botoes{
+  margin-top: 20px;
+}
+
+.conteudo .titulo .botoes .btn-contato a{
+  color: #fff;
+  font-family: azoBold;
+  background-color: var(--cor-principal);
+  text-decoration: none;
+  padding: 10px 25px;
+  border-radius: 10px;
+}
+
+.conteudo .titulo .botoes .btn-contato,
+.conteudo .titulo .botoes .btn-curriculo{
+  transition: ease-in .3s;
+}
+
+.conteudo .titulo .botoes .btn-contato:hover,
+.conteudo .titulo .botoes .btn-curriculo:hover{
+  scale: 1.1;
+  transition: ease-in-out .3s;
+}
+
+.conteudo .titulo .botoes .btn-curriculo{
+  margin-left: 15px;
+}
+
+.conteudo .titulo .botoes .btn-curriculo a{
+  color: #003140;
+  font-family: azoBold;
+  border: 2px solid var(--cor-principal);
+  text-decoration: none;
+  padding: 10px 25px;
+  border-radius: 10px;
+}

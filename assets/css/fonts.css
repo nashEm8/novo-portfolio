@@ -1,0 +1,34 @@
+@font-face {
+  font-family: azoBlack;
+  src: url('../fonts/AzoSansBlack.otf');
+}
+
+@font-face {
+  font-family: azoBold;
+  src: url('../fonts/AzoSansBold.otf');
+}
+
+@font-face {
+  font-family: azoItalic;
+  src: url('../fonts/AzoSansItalic.otf');
+}
+
+@font-face {
+  font-family: azoLight;
+  src: url('../fonts/AzoSansLight.otf');
+}
+
+@font-face {
+  font-family: azoMedium;
+  src: url('../fonts/AzoSansMedium.otf');
+}
+
+@font-face {
+  font-family: azoRegular;
+  src: url('../fonts/AzoSansRegular.otf');
+}
+
+@font-face {
+  font-family: azoThin;
+  src: url('../fonts/AzoSansThin.otf');
+}

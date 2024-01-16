@@ -1,0 +1,12 @@
+header{
+  border-bottom: 1px solid var(--cor-principal);
+}
+
+header nav .menu{
+  display: flex;
+  justify-content: flex-end;
+}
+
+header nav .logo img{
+  width: 80px;
+}

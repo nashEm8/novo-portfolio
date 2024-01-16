@@ -1,0 +1,108 @@
+#conteudo-sobre{
+  background-color: #002D3E;
+}
+
+#conteudo-sobre .sobre{
+  padding-top: 130px;
+  padding-bottom: 80px;
+  text-align: center;
+  color: #fff;
+}
+
+#conteudo-sobre .sobre h3{
+  font-family: azoBlack;
+  font-size: 40px;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+}
+
+#conteudo-sobre .sobre .texto-sobre img{
+  width: 500px;
+}
+
+#conteudo-sobre .sobre .texto-sobre p{
+  font-family: azoItalic;
+  font-size: 16px;
+  padding-left: 25px;
+}
+
+#conteudo-sobre .sobre .texto-sobre a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#conteudo-sobre .sobre .texto-sobre i{
+  font-size: 35px;
+  margin-right: 10px;
+  background-color: #001e29;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#conteudo-sobre .sobre .texto-sobre i:hover{
+  background-color: #fff;
+  color: #002D3E;
+}
+
+#skills{
+  padding-top: 80px;
+}
+
+#skills h4{
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  border-bottom: 2px solid #fff;
+  padding-bottom: 10px;
+  font-family: azoBlack;
+  font-size: 35px;
+  text-transform: uppercase;
+}
+
+#skills .icon-skill{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  text-align: center;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  background-color: #001e29;
+  color: #fff;
+}
+
+#skills .icon-skill svg{
+  width: 45px;
+  fill: #fff;
+}
+
+#skills h2{
+  font-family: azoBold;
+  font-size: 20px;
+}
+
+#experiencia .botoes-xp{
+  font-size: 18px;
+  font-family: azoBold;
+}
+
+#experiencia .nav-pills .nav-link{
+  color: #fff;
+  margin: 5px 0;
+}
+
+#experiencia .nav-pills .nav-link.active{
+  background-color: #001e29;
+  border: 1px solid #fff;
+}
+
+#experiencia .tab-pane{
+  font-family: azoRegular;
+  padding-left: 40px;
+  color: #fff;
+}
